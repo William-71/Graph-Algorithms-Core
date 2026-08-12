@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph-Algorithms-Core", "Graph-Algorithms-Core\Graph-Algorithms-Core.vcxproj", "{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Debug|x64.ActiveCfg = Debug|x64
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Debug|x64.Build.0 = Debug|x64
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Debug|x86.Build.0 = Debug|Win32
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Release|x64.ActiveCfg = Release|x64
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Release|x64.Build.0 = Release|x64
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Release|x86.ActiveCfg = Release|Win32
+		{021BC502-9D7C-4C4E-B13E-F3F8D5C06A2E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D745B0F8-4363-49F3-9DF4-68ED961C3C82}
+	EndGlobalSection
+EndGlobal
