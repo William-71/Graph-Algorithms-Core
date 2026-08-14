@@ -1,0 +1,9 @@
+# 忽略 Visual Studio 临时缓存与配置文件
+.vs/
+*.user
+*.suo
+
+# 忽略编译输出文件夹
+x64/
+Debug/
+Release/
